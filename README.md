@@ -87,7 +87,6 @@ else:
 s.close()
 ~~~
 ## OUTPUT
-## SERVER
-## CLINET
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
