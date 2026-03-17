@@ -87,6 +87,12 @@ else:
 s.close()
 ~~~
 ## OUTPUT
+## SERVER
+<img width="1483" height="219" alt="5SERVER" src="https://github.com/user-attachments/assets/e335b10c-4cae-40fd-8058-0f18ed52e092" />
+## CLIENT
+
+<img width="1481" height="247" alt="5CLIENT" src="https://github.com/user-attachments/assets/3bdbba81-b27b-4523-afbb-ee2872fd30ac" />
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
